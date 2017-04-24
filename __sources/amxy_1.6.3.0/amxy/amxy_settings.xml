@@ -1,0 +1,59 @@
+<settings>
+  <background>
+    <alpha>100</alpha>
+    <border_alpha>20</border_alpha>
+  </background>
+  <date_formats>
+    <axis_values>
+      <MM regular="MM/YYYY"/>
+    </axis_values>
+  </date_formats>
+  <grid>
+    <x>
+      <alpha>5</alpha>
+    </x>
+    <y>
+      <alpha>5</alpha>
+      <fill_color>000000</fill_color>
+      <fill_alpha>5</fill_alpha>
+    </y>
+  </grid>
+  <legend>
+    <enabled>0</enabled>
+  </legend>
+
+  <bullets>
+    <hover_brightness>20</hover_brightness>
+    <grow_time>2</grow_time>
+    <sequenced_grow>1</sequenced_grow>
+  </bullets>
+  <graphs>
+    <graph gid="0">
+      <color>E3A0F6</color>
+      <alpha>0</alpha>
+	  <data_labels>{description}</data_labels>
+      <balloon_text>niveau {value}</balloon_text>
+      <bullet>square</bullet>
+	  <bullet_min_size>30</bullet_min_size>
+	  <bullet_max_size>60</bullet_max_size>
+    </graph>
+  </graphs>
+  <values>
+    <x>
+		<type>date</type>
+		<min>2011-06-01</min>
+		<max>2013-02-01</max>
+    </x>
+    <y>
+		<enabled>0</enabled>
+    </y>
+  </values>
+  <labels>
+    <label lid="0">
+      <text><![CDATA[<b>Portefeuille R&D</b>]]></text>
+      <x>40</x>
+      <y>20</y>
+      <align>center</align>
+    </label>
+  </labels>
+</settings>

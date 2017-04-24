@@ -1,0 +1,13 @@
+{
+    "name": "yieloo/amcharts-php",
+    "authors": [
+        {
+            "name": "Yieloo",
+            "email": "contact@yieloo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}

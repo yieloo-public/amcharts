@@ -1,0 +1,12 @@
+<chart>
+  <graphs>
+    <graph gid="0">
+		<point x="2011-10-20" y="2" value="2">ORGAT</point>
+		<point x="2012-01-20" y="3" value="3">RD001</point>
+		<point x="2012-04-30" y="2" value="4">ISO14</point>
+		<point x="2012-07-10" y="2" value="1">METHO</point>
+		<point x="2011-12-31" y="2" value="2">CGAH</point>
+		<point x="2012-12-31" y="1" value="3">MOG</point>
+    </graph>
+  </graphs>
+</chart>
